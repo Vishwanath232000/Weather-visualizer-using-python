@@ -25,6 +25,9 @@ import asyncio
 import os
 import python_weather
 
+app = Dash(__name__)
+
+
 ### 2. Initialization
 python
 Copy code
